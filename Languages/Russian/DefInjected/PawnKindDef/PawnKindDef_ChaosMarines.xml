@@ -3,32 +3,32 @@
 
   <!-- Undivided -->
 
-  <BEWH_ChaosMarineUndivided.label>Chaos Marine</BEWH_ChaosMarineUndivided.label>
-  <BEWH_ChaosMarineUndivided.labelPlural>Chaos Marines</BEWH_ChaosMarineUndivided.labelPlural>
+  <BEWH_ChaosMarineUndivided.label>Десантник хаоса</BEWH_ChaosMarineUndivided.label>
+  <BEWH_ChaosMarineUndivided.labelPlural>Десантники хаоса</BEWH_ChaosMarineUndivided.labelPlural>
 
 
   <!-- Khorne -->
 
-  <BEWH_ChaosMarineKhorne.label>Khorne Marine</BEWH_ChaosMarineKhorne.label>
-  <BEWH_ChaosMarineKhorne.labelPlural>Khorne Marines</BEWH_ChaosMarineKhorne.labelPlural>
+  <BEWH_ChaosMarineKhorne.label>Десантник Кхорна</BEWH_ChaosMarineKhorne.label>
+  <BEWH_ChaosMarineKhorne.labelPlural>Десантники Кхорна</BEWH_ChaosMarineKhorne.labelPlural>
 
 
   <!-- Nurgle -->
 
-  <BEWH_ChaosMarineNurgle.label>Nurgle Marine</BEWH_ChaosMarineNurgle.label>
-  <BEWH_ChaosMarineNurgle.labelPlural>Nurgle Marines</BEWH_ChaosMarineNurgle.labelPlural>
+  <BEWH_ChaosMarineNurgle.label>Десантник Нургла</BEWH_ChaosMarineNurgle.label>
+  <BEWH_ChaosMarineNurgle.labelPlural>Десантники Нургла</BEWH_ChaosMarineNurgle.labelPlural>
 
 
   <!-- Slaanesh -->
 
-  <BEWH_ChaosMarineSlaanesh.label>Slaanesh Marine</BEWH_ChaosMarineSlaanesh.label>
-  <BEWH_ChaosMarineSlaanesh.labelPlural>Slaanesh Marines</BEWH_ChaosMarineSlaanesh.labelPlural>
+  <BEWH_ChaosMarineSlaanesh.label>Десантник Сланеш</BEWH_ChaosMarineSlaanesh.label>
+  <BEWH_ChaosMarineSlaanesh.labelPlural>Десантники Сланеш</BEWH_ChaosMarineSlaanesh.labelPlural>
 
 
   <!-- Tzeentch -->
 
-  <BEWH_ChaosMarineTzeentch.label>Tzeentch Marine</BEWH_ChaosMarineTzeentch.label>
-  <BEWH_ChaosMarineTzeentch.labelPlural>Tzeentch Marines</BEWH_ChaosMarineTzeentch.labelPlural>
+  <BEWH_ChaosMarineTzeentch.label>Десантник Тзинч</BEWH_ChaosMarineTzeentch.label>
+  <BEWH_ChaosMarineTzeentch.labelPlural>Десантники Тзинч</BEWH_ChaosMarineTzeentch.labelPlural>
 
 
 </LanguageData>
