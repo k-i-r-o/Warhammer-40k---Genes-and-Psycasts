@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Undivided -->
+
+  <BEWH_ChaosMarineUndivided.label>Chaos Marine</BEWH_ChaosMarineUndivided.label>
+  <BEWH_ChaosMarineUndivided.labelPlural>Chaos Marines</BEWH_ChaosMarineUndivided.labelPlural>
+
+
+  <!-- Khorne -->
+
+  <BEWH_ChaosMarineKhorne.label>Khorne Marine</BEWH_ChaosMarineKhorne.label>
+  <BEWH_ChaosMarineKhorne.labelPlural>Khorne Marines</BEWH_ChaosMarineKhorne.labelPlural>
+
+
+  <!-- Nurgle -->
+
+  <BEWH_ChaosMarineNurgle.label>Nurgle Marine</BEWH_ChaosMarineNurgle.label>
+  <BEWH_ChaosMarineNurgle.labelPlural>Nurgle Marines</BEWH_ChaosMarineNurgle.labelPlural>
+
+
+  <!-- Slaanesh -->
+
+  <BEWH_ChaosMarineSlaanesh.label>Slaanesh Marine</BEWH_ChaosMarineSlaanesh.label>
+  <BEWH_ChaosMarineSlaanesh.labelPlural>Slaanesh Marines</BEWH_ChaosMarineSlaanesh.labelPlural>
+
+
+  <!-- Tzeentch -->
+
+  <BEWH_ChaosMarineTzeentch.label>Tzeentch Marine</BEWH_ChaosMarineTzeentch.label>
+  <BEWH_ChaosMarineTzeentch.labelPlural>Tzeentch Marines</BEWH_ChaosMarineTzeentch.labelPlural>
+
+
+</LanguageData>

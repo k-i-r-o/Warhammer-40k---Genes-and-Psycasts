@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Iota Psyker -->
+
+  <BEWH_IotaPsyker.label>Йота псайкер</BEWH_IotaPsyker.label>
+  <BEWH_IotaPsyker.description>Псайкер уровня способностей Йота.</BEWH_IotaPsyker.description>
+  <BEWH_IotaPsyker.stages.0.label>Йота псайкер</BEWH_IotaPsyker.stages.0.label>
+  <BEWH_IotaPsyker.labelNoun>Йота псайкер</BEWH_IotaPsyker.labelNoun>
+
+
+  <!-- Epsilon Psyker -->
+
+  <BEWH_EpsilonPsyker.label>Эпсилон псайкер</BEWH_EpsilonPsyker.label>
+  <BEWH_EpsilonPsyker.description>Псайкер уровня способностей Эпсилон.</BEWH_EpsilonPsyker.description>
+  <BEWH_EpsilonPsyker.stages.0.label>Эпсилон псайкер</BEWH_EpsilonPsyker.stages.0.label>
+  <BEWH_EpsilonPsyker.labelNoun>Эпсилон псайкер</BEWH_EpsilonPsyker.labelNoun>
+
+
+  <!-- Delta Psyker -->
+
+  <BEWH_DeltaPsyker.label>Дельта псайкер</BEWH_DeltaPsyker.label>
+  <BEWH_DeltaPsyker.description>Псайкер уровня способностей Дельта.</BEWH_DeltaPsyker.description>
+  <BEWH_DeltaPsyker.stages.0.label>Дельта псайкер</BEWH_DeltaPsyker.stages.0.label>
+  <BEWH_DeltaPsyker.labelNoun>Дельта псайкер</BEWH_DeltaPsyker.labelNoun>
+
+
+  <!-- Beta Psyker -->
+
+  <BEWH_BetaPsyker.label>Бета псайкер</BEWH_BetaPsyker.label>
+  <BEWH_BetaPsyker.description>Псайкер уровня способностей Бета.</BEWH_BetaPsyker.description>
+  <BEWH_BetaPsyker.stages.0.label>Бета псайкер</BEWH_BetaPsyker.stages.0.label>
+  <BEWH_BetaPsyker.labelNoun>Бета псайкер</BEWH_BetaPsyker.labelNoun>
+
+
+</LanguageData>

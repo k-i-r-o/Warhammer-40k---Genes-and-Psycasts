@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Iota Psyker -->
+
+  <BEWH_IotaPsyker.label>йота псайкер</BEWH_IotaPsyker.label>
+  <BEWH_IotaPsyker.description>Носитель этого гена способен раскрыть свой истинный психический потенциал.(временное описание)</BEWH_IotaPsyker.description>
+
+
+  <!-- Epsilon Psyker -->
+
+  <BEWH_Psyker.label>эпсилон псайкер</BEWH_Psyker.label>
+  <BEWH_Psyker.description>Носитель этого гена способен раскрыть свой истинный психический потенциал.(временное описание)</BEWH_Psyker.description>
+
+
+  <!-- Delta Psyker -->
+
+  <BEWH_DeltaPsyker.label>дельта псайкер</BEWH_DeltaPsyker.label>
+  <BEWH_DeltaPsyker.description>Носитель этого гена способен раскрыть свой истинный психический потенциал.(временное описание)</BEWH_DeltaPsyker.description>
+
+
+  <!-- Beta Psyker -->
+
+  <BEWH_BetaPsyker.label>бета псайкер</BEWH_BetaPsyker.label>
+  <BEWH_BetaPsyker.description>Носитель этого гена способен раскрыть свой истинный психический потенциал.(временное описание)</BEWH_BetaPsyker.description>
+
+
+  <!-- Iota Psyker 
+  Carriers of this gene are able to unlock their true psychic potential.-->
+
+</LanguageData>

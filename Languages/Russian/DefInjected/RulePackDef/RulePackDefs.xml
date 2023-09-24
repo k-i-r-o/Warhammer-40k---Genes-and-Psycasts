@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Imperium Namer Defs -->
+
+  <NamerIdeoImperium.rulePack.rulesStrings.0>r_ideoName->Имперский Культ</NamerIdeoImperium.rulePack.rulesStrings.0>
+  <NamerIdeoImperium.rulePack.rulesStrings.1>r_ideoAdjective->Имперский</NamerIdeoImperium.rulePack.rulesStrings.1>
+  <NamerIdeoImperium.rulePack.rulesStrings.2>r_memberName->Лоялист</NamerIdeoImperium.rulePack.rulesStrings.2>
+
+  <GodContent_Imperium.rulePack.rulesStrings.0>name->[start] [middle] [end]</GodContent_Imperium.rulePack.rulesStrings.0>
+  <GodContent_Imperium.rulePack.rulesStrings.1>start->Император</GodContent_Imperium.rulePack.rulesStrings.1>
+  <GodContent_Imperium.rulePack.rulesStrings.2>start->Бог-Император</GodContent_Imperium.rulePack.rulesStrings.2>
+  <GodContent_Imperium.rulePack.rulesStrings.3>middle-></GodContent_Imperium.rulePack.rulesStrings.3>
+  <GodContent_Imperium.rulePack.rulesStrings.4>end->Человечества</GodContent_Imperium.rulePack.rulesStrings.4>
+  <GodContent_Imperium.rulePack.rulesStrings.5>end-></GodContent_Imperium.rulePack.rulesStrings.5>
+
+  <DeityTypeMakerImperium.rulePack.rulesStrings.0>r_deityType->Повелитель Человечества</DeityTypeMakerImperium.rulePack.rulesStrings.0>
+  <LeaderTitleMakerImperium.rulePack.rulesStrings.0>r_leaderTitle->Капитан</LeaderTitleMakerImperium.rulePack.rulesStrings.0>
+  <NamerRitualFestivalImperium.rulePack.rulesStrings.0>r_ritualName->Чествование Императора</NamerRitualFestivalImperium.rulePack.rulesStrings.0>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Daemonic Horn Attack -->
+
+  <BEWH_DaemonicHornAttack.label>демонические рога</BEWH_DaemonicHornAttack.label>
+  <BEWH_DaemonicHornAttack.description>Эти устрашающие на вид демонические рога могут быть использованы как смертоносное оружие.</BEWH_DaemonicHornAttack.description>
+  <BEWH_DaemonicHornAttack.comps.0.tools.0.label>демонические рога</BEWH_DaemonicHornAttack.comps.0.tools.0.label>
+
+
+  <!-- Daemonic Tail Attack -->
+
+  <BEWH_DaemonicTailAttack.label>демонический хвост</BEWH_DaemonicTailAttack.label>
+  <BEWH_DaemonicTailAttack.description>Этот демонический хвост не только полезен для манипулирования предметами, он также может наносить мощные удары.</BEWH_DaemonicTailAttack.description>
+  <BEWH_DaemonicTailAttack.comps.0.tools.0.label>демонический хвост</BEWH_DaemonicTailAttack.comps.0.tools.0.label>
+
+
+  <!-- Daemonic Horn Attack 
+  daemonic horns 
+  These daemonic horns are not only for show, they can be used as a deadly weapon should the daemon need it.-->
+  <!-- Daemonic Tail Attack 
+  daemonic tail
+  This daemonic tail, whilst useful for manipulation of items, can also be used as a weapon should the daemon need it.-->
+
+</LanguageData>

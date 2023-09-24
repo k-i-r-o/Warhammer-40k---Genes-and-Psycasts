@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Secondary Heart -->
+
+  <!--<BEWH_SecondaryHeart.label>второе сердце</BEWH_SecondaryHeart.label>-->
+  <!--<BEWH_SecondaryHeart.description>Дополнительное сердце способно подменять (при повреждении) основное и усиливает кровоток по всему телу, эффективно снабжая кислородом новые органы.</BEWH_SecondaryHeart.description>-->
+
+
+  <!-- Ossmodula -->
+
+  <!--<BEWH_Ossmodula.label>оссмодула</BEWH_Ossmodula.label>-->
+  <!--<BEWH_Ossmodula.description>Железа, позволяющая укрепить кости и ускорить их рост, что наделяет носителя сверхчеловеческой силой и массивными размерами.</BEWH_Ossmodula.description>-->
+
+
+  <!-- Biscopea -->
+
+  <!--<BEWH_Biscopea.label>бископия</BEWH_Biscopea.label>-->
+  <!--<BEWH_Biscopea.description>Железа, ответственная за рост мышечной массы и изменение гормонального баланса космодесантника. Она также помогает сформировать гормональную основу для многих из последующих имплантов.</BEWH_Biscopea.description>-->
+
+
+  <!-- Haemastamen -->
+
+  <!--<BEWH_Haemastamen.label>гемастамен</BEWH_Haemastamen.label>-->
+  <!--<BEWH_Haemastamen.description>Этот имплант вживляется в основную кровеносную систему, увеличивая насыщаемость крови гемоглобином, делая её ярко-красной и позволяя более эффективно переносить кислород по всему телу.</BEWH_Haemastamen.description>-->
+
+
+  <!-- Larraman's Organ -->
+
+  <!--<BEWH_LarramansOrgan.label>орган Ларрамана</BEWH_LarramansOrgan.label>-->
+  <!--<BEWH_LarramansOrgan.description>Небольшой имплант, помещаемый в грудную клетку. Ответственен за выработку так называемых «клеток Ларрамана», благодаря которым раны космодесантника затягиваются практически мгновенно. </BEWH_LarramansOrgan.description>-->
+  <!--<BEWH_LarramansOrgan.customEffectDescriptions.0>Кровоточащие раны очень быстро затягиваются.</BEWH_LarramansOrgan.customEffectDescriptions.0>-->
+
+
+  <!-- Catalepsean Node -->
+
+  <!--<BEWH_CatalepseanNode.label>каталептический узел</BEWH_CatalepseanNode.label>-->
+  <!--<BEWH_CatalepseanNode.description>Орган, влияющий на суточные ритмы организма и его реакцию на недостаток сна. Имплант позволяет космодесантнику бодрствовать и спать в одно и то же время, попеременно отключая части мозга, при этом сохраняя сознание и готовность к действиям.</BEWH_CatalepseanNode.description>-->
+
+
+  <!-- Preomnor -->
+
+  <!--<BEWH_Preomnor.label>преомнор</BEWH_Preomnor.label>-->
+  <!--<BEWH_Preomnor.description>Пред-желудок, нейтрализующий потенциально опасные вещества, попавшие в пищеварительный тракт космодесантника.</BEWH_Preomnor.description>-->
+
+
+  <!-- Omophagea -->
+
+  <!--<BEWH_Omophagea.label>омофагия</BEWH_Omophagea.label>-->
+  <!--<BEWH_Omophagea.description>Улучшение нервной системы, позволяющее космодесантнику считывать генетическую информацию из поглощаемого материала, передавая её в мозг в виде набора воспоминаний или опыта.</BEWH_Omophagea.description>-->
+
+
+  <!-- Multi-lung -->
+
+  <!--<BEWH_Multi-lung.label>третье лёгкое</BEWH_Multi-lung.label>-->
+  <!--<BEWH_Multi-lung.description>Дополнительное лёгкое, снабжённое эффективной системой очистки от ядов. Позволяет космодесантнику дышать в условиях нехватки кислорода, под водой и в сильно загрязнённой атмосфере.</BEWH_Multi-lung.description>-->
+  <!-- Tox gas immunity -->
+  <!--<BEWH_Multi-lung.customEffectDescriptions.0>невосприимчивость к токсичному газу</BEWH_Multi-lung.customEffectDescriptions.0>-->
+
+
+  <!-- Occulobe -->
+
+  <!--<BEWH_Occulobe.label>оккулоба</BEWH_Occulobe.label>-->
+  <!--<BEWH_Occulobe.description>Орган в основании мозга, отвечающий за преобразование глазной системы носителя. После завершения трансформации глаза космодесантника существенно превосходят человеческие по остроте зрения и могут видеть при весьма слабом освещении.</BEWH_Occulobe.description>-->
+
+
+  <!-- Lyman's Ear -->
+
+  <!--<BEWH_LymansEar.label>ухо Лимана</BEWH_LymansEar.label>-->
+  <!--<BEWH_LymansEar.description>Имплант делает космодесантника невосприимчивым к головокружениям и укачиванию, также позволяя ему сознательно фильтровать и усиливать звуки.</BEWH_LymansEar.description>-->
+
+
+  <!-- Sus-an Membrane -->
+
+  <!--<BEWH_Sus-anMembrane.label>анабиозная мембрана</BEWH_Sus-anMembrane.label>-->
+  <!--<BEWH_Sus-anMembrane.description>Имплантируемая над мозгом, эта мембрана, после специального обучения, позволяет космодесантнику входить в состояние приостановленной жизнедеятельности (стазис) — осознанно или рефлекторно, в случае серьёзных травм.</BEWH_Sus-anMembrane.description>-->
+
+
+  <!-- Melanochrome -->
+
+  <!--<BEWH_Melanochrome.label>меланохрома</BEWH_Melanochrome.label>-->
+  <!--<BEWH_Melanochrome.description>Имплант отвечающий за быстрое изменение уровня пигментов в коже. Благодаря этому космодесантник может выдерживать заметно большие дозы солнечной радиации и других вредных излучений.</BEWH_Melanochrome.description>-->
+
+
+  <!-- Oolitic Kidney -->
+
+  <!--<BEWH_OoliticKidney.label>оолитовая почка</BEWH_OoliticKidney.label>-->
+  <!--<BEWH_OoliticKidney.description>Улучшенный фильтр для кровеносной системы, делающий космодесантника почти неуязвимым для большинства ядов.</BEWH_OoliticKidney.description>-->
+
+
+  <!-- Neuroglottis -->
+
+  <!--<BEWH_Neuroglottis.label>нейроглоттис</BEWH_Neuroglottis.label>-->
+  <!--<BEWH_Neuroglottis.description>Орган усиливающий чувство вкуса и, частично, обоняния до такой степени, что носитель может распознавать большинство химических соединений.</BEWH_Neuroglottis.description>-->
+
+
+  <!-- Mucranoid -->
+
+  <!--<BEWH_Mucranoid.label>мукраноид</BEWH_Mucranoid.label>-->
+  <!--<BEWH_Mucranoid.description>Железа, позволяющая коже выделять особую защитную субстанцию, которая помогает космодесантнику переносить опасно высокие и низкие температуры и даже обеспечивая его некоторой защитой в вакууме.</BEWH_Mucranoid.description>-->
+
+
+  <!-- Betcher's Gland -->
+
+  <!--<BEWH_BetchersGland.label>железа Бетчера</BEWH_BetchersGland.label>-->
+  <!--<BEWH_BetchersGland.description>Пара желез, позволяющая космодесантнику плеваться ослепляющей кислотой, способной со временем разъедать даже самые прочные металлы.</BEWH_BetchersGland.description>-->
+
+
+  <!-- Progenoid Glands -->
+
+  <!--<BEWH_ProgenoidGlands.label>прогеноиды</BEWH_ProgenoidGlands.label>-->
+  <!--<BEWH_ProgenoidGlands.description>Две железы — в основании шеи и в грудной полости. Прогеноиды со временем производят новые комплекты генетического семени, которые должны быть хирургически пересажены новым кандидатам на роль космодесантника.</BEWH_ProgenoidGlands.description>-->
+  <!--<BEWH_ProgenoidGlands.customEffectDescriptions.0>Позволяет каждые три дня извлекать созревшее геносемя выбранного органа космодесантника.</BEWH_ProgenoidGlands.customEffectDescriptions.0>-->
+
+
+  <!-- Black Carapace -->
+
+  <!--<BEWH_BlackCarapace.label>чёрный панцирь</BEWH_BlackCarapace.label>-->
+  <!--<BEWH_BlackCarapace.description>Плёнка, пересаживаемая под кожу торса космодесантника. Позволяет подключать силовую броню непосредственно к нервной системе и действовать так, словно она является частью тела.</BEWH_BlackCarapace.description>-->
+
+
+  <!-- Sinew Coil -->
+
+  <!--<BEWH_SinewCoil.label>витые жилы</BEWH_SinewCoil.label>-->
+  <!--<BEWH_SinewCoil.description>Сухожилия носителя укреплены дюраметаллическими витыми жгутами, способными сокращаться с невероятной мощью. Их наличие многократно увеличивает силу и наделяет тело дополнительной внутренней защитой.</BEWH_SinewCoil.description>-->
+
+
+  <!-- Magnificat -->
+
+  <!--<BEWH_Magnificat.label>магнификат</BEWH_Magnificat.label>-->
+  <!--<BEWH_Magnificat.description>Дополнительная доля в коре головного мозга, делающая носителя физически ещё крупнее, сильнее и увеличивающая быстроту реакции.</BEWH_Magnificat.description>-->
+
+
+  <!-- Belisarian Furnace -->
+
+  <!--<BEWH_BelisarianFurnace.label>горнило Велизария</BEWH_BelisarianFurnace.label>-->
+  <!--<BEWH_BelisarianFurnace.description>Неактивный орган, подсоединённый к обоим сердцам. В случае стрессовой ситуации или получения тяжелых ранений он активируется и вбрасывает в кровеносную систему сложный коктейль из боевых стимуляторов, обезболивающего и особых гормонов, ускоряющих регенерацию.</BEWH_BelisarianFurnace.description>-->
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BEWH_ImperiumFaction.label>Империум Человечества</BEWH_ImperiumFaction.label>
+  <BEWH_ImperiumFaction.description>Отряд лучших воинов Императора, Адептус Астартес, которым поручено искоренить ересь в этом захолустном окраинном мире.</BEWH_ImperiumFaction.description>
+  <BEWH_ImperiumFaction.pawnsPlural>Космодесантники</BEWH_ImperiumFaction.pawnsPlural>
+  <BEWH_ImperiumFaction.leaderTitle>Лорд-командующий</BEWH_ImperiumFaction.leaderTitle>
+
+
+  <!--<BEWH_ImperiumFaction.pawnSingular>Космодесантник</BEWH_ImperiumFaction.pawnSingular>-->
+
+</LanguageData>

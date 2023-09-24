@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Name of Imperium Faction -->
+
+  <BEWH_FactionNameMaker.rulePack.rulesStrings.0>r_name->Адептус Астартес</BEWH_FactionNameMaker.rulePack.rulesStrings.0>
+
+
+  <!-- Name of settlements -->
+
+  <BEWH_SettlementNameMaker.rulePack.rulesStrings.0>r_name->Аванпост [Letters]</BEWH_SettlementNameMaker.rulePack.rulesStrings.0>
+
+
+  <!-- Name of Chaos Faction -->
+
+  <BEWH_FactionChaosNameMaker.rulePack.rulesStrings.0>r_name->Chaos</BEWH_FactionChaosNameMaker.rulePack.rulesStrings.0>
+
+
+  <!-- Name of faction -->
+
+</LanguageData>

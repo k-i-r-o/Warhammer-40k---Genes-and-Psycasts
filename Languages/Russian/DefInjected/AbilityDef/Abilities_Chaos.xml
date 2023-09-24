@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Daemonic Flight -->
+
+  <BEWH_DaemonicFlight.label>демонический полёт</BEWH_DaemonicFlight.label>
+  <BEWH_DaemonicFlight.description>Наличие крыльев даёт этой пешке возможность летать.</BEWH_DaemonicFlight.description>
+  <BEWH_DaemonicFlight.verbProperties.label>демонический полёт</BEWH_DaemonicFlight.verbProperties.label>
+
+
+  <!-- Daemonic Flight 
+  This pawn is granted flight by their wings. -->
+
+</LanguageData>

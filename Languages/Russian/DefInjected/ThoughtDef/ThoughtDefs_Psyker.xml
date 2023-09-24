@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Iota Psyker -->
+
+  <BEWH_IotaPsyker.stages.0.label>Йота псайкер</BEWH_IotaPsyker.stages.0.label>
+  <BEWH_IotaPsyker.stages.0.description>Я чувствую варп...</BEWH_IotaPsyker.stages.0.description>
+
+
+  <!-- Epsilon Psyker -->
+
+  <BEWH_EpsilonPsyker.stages.0.label>Эпсилон псайкер</BEWH_EpsilonPsyker.stages.0.label>
+  <BEWH_EpsilonPsyker.stages.0.description>Я чувствую варп...</BEWH_EpsilonPsyker.stages.0.description>
+
+
+  <!-- Delta Psyker -->
+
+  <BEWH_DeltaPsyker.stages.0.label>Дельта псайкер</BEWH_DeltaPsyker.stages.0.label>
+  <BEWH_DeltaPsyker.stages.0.description>Я чувствую варп...</BEWH_DeltaPsyker.stages.0.description>
+
+
+  <!-- Beta Psyker -->
+
+  <BEWH_BetaPsyker.stages.0.label>Бета псайкер</BEWH_BetaPsyker.stages.0.label>
+  <BEWH_BetaPsyker.stages.0.description>Я чувствую варп...</BEWH_BetaPsyker.stages.0.description>
+
+
+  <!-- Iota Psyker 
+  I can feel the warp...  -->
+  <!-- Epsilon Psyker 
+  I can feel the warp... -->
+  <!-- Delta Psyker 
+  I can feel the warp...-->
+  <!-- Beta Psyker 
+  I can feel the warp...-->
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sigma Pariah -->
+
+  <BEWH_SigmaPariah.stages.0.label>Сигма пария</BEWH_SigmaPariah.stages.0.label>
+  <BEWH_SigmaPariah.stages.0.description>Спокойствие...</BEWH_SigmaPariah.stages.0.description>
+
+
+  <!-- Sigma Pariah Social -->
+
+  <BEWH_SigmaPariahSocial.stages.0.label>пария</BEWH_SigmaPariahSocial.stages.0.label>
+
+
+  <!-- Upsilon Pariah -->
+
+  <BEWH_UpsilonPariah.stages.0.label>Ипсилон пария</BEWH_UpsilonPariah.stages.0.label>
+  <BEWH_UpsilonPariah.stages.0.description>Спокойствие...</BEWH_UpsilonPariah.stages.0.description>
+
+
+  <!-- Upsilon Pariah Social -->
+
+  <BEWH_UpsilonPariahSocial.stages.0.label>пария</BEWH_UpsilonPariahSocial.stages.0.label>
+
+
+  <!-- Omega Pariah -->
+
+  <BEWH_OmegaPariah.stages.0.label>Омега пария</BEWH_OmegaPariah.stages.0.label>
+  <BEWH_OmegaPariah.stages.0.description>Спокойствие...</BEWH_OmegaPariah.stages.0.description>
+
+
+  <!-- Omega Pariah Social -->
+
+  <BEWH_OmegaPariahSocial.stages.0.label>пария</BEWH_OmegaPariahSocial.stages.0.label>
+
+
+  <!-- Sigma Pariah 
+	Calm... -->
+  <!-- Sigma Pariah Social 
+	Pariah -->
+  <!-- Upsilon Pariah 
+	Calm... -->
+  <!-- Upsilon Pariah Social 
+	Pariah -->
+  <!-- Omega Pariah 
+	Calm... -->
+  <!-- Omega Pariah Social 
+	Pariah -->
+
+</LanguageData>

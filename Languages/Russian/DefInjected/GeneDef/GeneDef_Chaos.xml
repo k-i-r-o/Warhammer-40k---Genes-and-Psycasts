@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mark of Khorne -->
+
+  <BEWH_KhorneMark.label>метка Кхорна</BEWH_KhorneMark.label>
+  <BEWH_KhorneMark.description>Кровавый Бог наделил эту пешку своей меткой и даровал особые генетические мутации.</BEWH_KhorneMark.description>
+
+
+  <!-- Mark of Nurgle -->
+
+  <BEWH_NurgleMark.label>метка Нургла</BEWH_NurgleMark.label>
+  <BEWH_NurgleMark.description>Властелин Разложения наделил эту пешку своей меткой и даровал особые генетические мутации.</BEWH_NurgleMark.description>
+
+
+  <!-- Mark of Tzeentch -->
+
+  <BEWH_TzeentchMark.label>метка Тзинча</BEWH_TzeentchMark.label>
+  <BEWH_TzeentchMark.description>Великий Заговорщик наделил эту пешку своей меткой и даровал особые генетические мутации.</BEWH_TzeentchMark.description>
+
+
+  <!-- Mark of Slaanesh -->
+
+  <BEWH_SlaaneshMark.label>метка Слаанеш</BEWH_SlaaneshMark.label>
+  <BEWH_SlaaneshMark.description>Господин Удовольствий наделил эту пешку своей меткой и даровал особые генетические мутации.</BEWH_SlaaneshMark.description>
+
+
+  <!-- Mark of Chaos -->
+
+  <BEWH_UndividedMark.label>метка Хаоса Неделимого</BEWH_UndividedMark.label>
+  <BEWH_UndividedMark.description>Боги Хаоса наделили эту пешку своей меткой и даровали особые генетические мутации.</BEWH_UndividedMark.description>
+
+
+  <!-- Daemon Mutation -->
+
+  <BEWH_DaemonMutation.label>демоническая мутация</BEWH_DaemonMutation.label>
+  <BEWH_DaemonMutation.description>Боги Хаоса благословили эту пешку мутациями, меняющими тело и дающими способности, недоступные простым смертным.</BEWH_DaemonMutation.description>
+
+
+  <!-- Daemon Hide -->
+
+  <BEWH_DaemonHide.label>демоническая шкура</BEWH_DaemonHide.label>
+  <BEWH_DaemonHide.description>Дарованная Богами Хаоса мутация делает кожу носителя невероятно прочной, позволяя выдерживать сильнейшие удары.</BEWH_DaemonHide.description>
+
+
+  <!-- Daemon Wings -->
+
+  <BEWH_DaemonWings.label>демонические крылья</BEWH_DaemonWings.label>
+  <BEWH_DaemonWings.description>Дарованная Богами Хаоса мутация наделяет крыльями, дающими возможность быстро преодолевать большие расстояния.</BEWH_DaemonWings.description>
+
+
+  <!-- Daemon Tail -->
+
+  <BEWH_DaemonTail.label>демонический хвост</BEWH_DaemonTail.label>
+  <BEWH_DaemonTail.description>Дарованная Богами Хаоса мутация наделяет хвостом, который можно использовать в качестве оружия. Также он позволяет манипулировать предметами, помогая в работе.</BEWH_DaemonTail.description>
+
+
+  <!-- Daemon Horns -->
+
+  <BEWH_DaemonHorns.label>демонические рога</BEWH_DaemonHorns.label>
+  <BEWH_DaemonHorns.description>Дарованная Богами Хаоса мутация наделяет рогами устрашающего вида, которые могут быть использованы как смертоносное оружие.</BEWH_DaemonHorns.description>
+
+
+  <!-- Khorne -->
+
+  <BEWH_KhorneColor.label>мутация Кхорна</BEWH_KhorneColor.label>
+  <BEWH_KhorneColor.description>Цвет кожи и тело этой пешки изменены даром Кровавого Бога.</BEWH_KhorneColor.description>
+
+
+  <!-- Nurgle -->
+
+  <BEWH_NurleColor.label>мутация Нургла</BEWH_NurleColor.label>
+  <BEWH_NurleColor.description>Цвет кожи и тело этой пешки изменены даром Властелина Разложения.</BEWH_NurleColor.description>
+
+
+  <!-- Tzeencth -->
+
+  <BEWH_TzeencthColor.label>мутация Тзинча</BEWH_TzeencthColor.label>
+  <BEWH_TzeencthColor.description>Цвет кожи и тело этой пешки изменены даром Архитектора Судеб.</BEWH_TzeencthColor.description>
+
+
+  <!-- Slaanesh -->
+
+  <BEWH_SlaaneshColor.label>мутация Слаанеш</BEWH_SlaaneshColor.label>
+  <BEWH_SlaaneshColor.description>Цвет кожи и тело этой пешки изменены даром Господина Удовольствий.</BEWH_SlaaneshColor.description>
+
+
+  <!-- Undivided -->
+
+  <BEWH_UndividedColor.label>мутация Хаоса Неделимого</BEWH_UndividedColor.label>
+  <BEWH_UndividedColor.description>Цвет кожи и тело этой пешки изменены даром богов-покровителей.</BEWH_UndividedColor.description>
+
+
+  <!-- Mark of Khorne 
+  This pawn has been genetically modified as a result of being marked by Khorne. -->
+  <!-- Mark of Nurgle 
+  This pawn has been genetically modified as a result of being marked by Nurgle.-->
+  <!-- Mark of Tzeentch 
+  This pawn has been genetically modified as a result of being marked by Tzeentch.-->
+  <!-- Mark of Slaanesh 
+  This pawn has been genetically modified as a result of being marked by Slaanesh.-->
+  <!-- Mark of Chaos 
+  This pawn has been genetically modified as a result of being marked by the chaos gods.-->
+  <!-- Daemon Mutation 
+  This pawn has been genetically modified beyond their human shell as a result of their chaos dedication.-->
+  <!-- Daemon Hide 
+  This pawn have been awarded with tough hiide for their servitude, able to withstand even the hardest blows.-->
+  <!-- Daemon Wings 
+  This pawn have been awarded with wings for their servitude, used to fly vast distances in a split second.-->
+  <!-- Daemon Tail 
+  This pawn have been awarded with a tail for their servitude, used to manipulate certain thing but can also be used as a weapon.-->
+  <!-- Daemon Horns 
+  This pawn have been awarded with horns for their servitude, not only for show as it can be used as a deadly weapon.-->
+  <!-- Khorne 
+  This pawn's pigment and body have been mutated to better reflect their patron god.-->
+  <!-- Nurgle 
+  This pawn's pigment and body have been mutated to better reflect their patron god.-->
+  <!-- Tzeencth 
+  This pawn's pigment and body have been mutated to better reflect their patron god.-->
+  <!-- Slaanesh 
+  This pawn's pigment and body have been mutated to better reflect their patron god.-->
+  <!-- Undivided 
+  This pawn's pigment have been mutated to better reflect their patron gods.-->
+
+</LanguageData>

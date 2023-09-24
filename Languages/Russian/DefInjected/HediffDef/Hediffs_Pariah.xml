@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sigma Pariah -->
+
+  <BEWH_SigmaPariah.label>Сигма пария</BEWH_SigmaPariah.label>
+  <BEWH_SigmaPariah.description>Пария уровня способностей Сигма.</BEWH_SigmaPariah.description>
+  <BEWH_SigmaPariah.stages.0.label>Sigma Pariah</BEWH_SigmaPariah.stages.0.label>
+  <BEWH_SigmaPariah.labelNoun>Сигма пария</BEWH_SigmaPariah.labelNoun>
+
+
+  <!-- Upsilon Pariah -->
+
+  <BEWH_UpsilonPariah.label>Ипсилон пария</BEWH_UpsilonPariah.label>
+  <BEWH_UpsilonPariah.description>Пария уровня способностей Ипсилон.</BEWH_UpsilonPariah.description>
+  <BEWH_UpsilonPariah.stages.0.label>Upsilon Pariah</BEWH_UpsilonPariah.stages.0.label>
+  <BEWH_UpsilonPariah.labelNoun>Ипсилон пария</BEWH_UpsilonPariah.labelNoun>
+
+
+  <!-- Omega Pariah -->
+
+  <BEWH_OmegaPariah.label>Омега пария</BEWH_OmegaPariah.label>
+  <BEWH_OmegaPariah.description>Пария уровня способностей Омега.</BEWH_OmegaPariah.description>
+  <BEWH_OmegaPariah.stages.0.label>Omega Pariah</BEWH_OmegaPariah.stages.0.label>
+  <BEWH_OmegaPariah.labelNoun>Омега пария</BEWH_OmegaPariah.labelNoun>
+
+
+  <!-- Sigma Pariah Effecter -->
+
+  <BEWH_SigmaPariahEffecter.label>Сигма пария</BEWH_SigmaPariahEffecter.label>
+  <BEWH_SigmaPariahEffecter.description>Неподалёку пария уровня Сигма.</BEWH_SigmaPariahEffecter.description>
+  <BEWH_SigmaPariahEffecter.stages.0.label>Sigma Pariah nearby</BEWH_SigmaPariahEffecter.stages.0.label>
+  <BEWH_SigmaPariahEffecter.labelNoun>Сигма пария</BEWH_SigmaPariahEffecter.labelNoun>
+
+
+  <!-- Upsilon Pariah Effecter -->
+
+  <BEWH_UpsilonPariahEffecter.label>Ипсилон пария</BEWH_UpsilonPariahEffecter.label>
+  <BEWH_UpsilonPariahEffecter.description>Неподалёку пария уровня Ипсилон.</BEWH_UpsilonPariahEffecter.description>
+  <BEWH_UpsilonPariahEffecter.stages.0.label>Upsilon Pariah nearby</BEWH_UpsilonPariahEffecter.stages.0.label>
+  <BEWH_UpsilonPariahEffecter.labelNoun>Ипсилон пария</BEWH_UpsilonPariahEffecter.labelNoun>
+
+
+  <!-- Omega Pariah Effecter -->
+
+  <BEWH_OmegaPariahEffecter.label>Омега пария</BEWH_OmegaPariahEffecter.label>
+  <BEWH_OmegaPariahEffecter.description>Неподалёку пария уровня Омега.</BEWH_OmegaPariahEffecter.description>
+  <BEWH_OmegaPariahEffecter.stages.0.label>Omega Pariah nearby</BEWH_OmegaPariahEffecter.stages.0.label>
+  <BEWH_OmegaPariahEffecter.labelNoun>Омега пария</BEWH_OmegaPariahEffecter.labelNoun>
+
+
+</LanguageData>

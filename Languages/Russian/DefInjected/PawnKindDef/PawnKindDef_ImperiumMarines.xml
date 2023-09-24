@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Space Marine Ranged -->
+
+  <BEWH_SpaceMarineRanged.label>Тактический космодесантник</BEWH_SpaceMarineRanged.label>
+  <BEWH_SpaceMarineRanged.labelPlural>Тактические космодесантники</BEWH_SpaceMarineRanged.labelPlural>
+
+
+  <!-- Space Marine Melee -->
+
+  <BEWH_SpaceMarineMelee.label>Тактический космодесантник</BEWH_SpaceMarineMelee.label>
+  <BEWH_SpaceMarineMelee.labelPlural>Тактические космодесантники</BEWH_SpaceMarineMelee.labelPlural>
+
+
+  <!-- Primaris Space Marine Ranged -->
+
+  <BEWH_PrimarisSpaceMarineRanged.label>Тактический космодесантник-примарис</BEWH_PrimarisSpaceMarineRanged.label>
+  <BEWH_PrimarisSpaceMarineRanged.labelPlural>Тактические космодесантники-примарис</BEWH_PrimarisSpaceMarineRanged.labelPlural>
+
+
+  <!-- Primaris Space Marine Melee -->
+
+  <BEWH_PrimarisSpaceMarineMelee.label>Тактический космодесантник-примарис</BEWH_PrimarisSpaceMarineMelee.label>
+  <BEWH_PrimarisSpaceMarineMelee.labelPlural>Тактические космодесантники-примарис</BEWH_PrimarisSpaceMarineMelee.labelPlural>
+
+
+  <!-- Space Marine Psyker -->
+
+  <BEWH_SpaceMarinePsyker.label>Библиарий</BEWH_SpaceMarinePsyker.label>
+  <BEWH_SpaceMarinePsyker.labelPlural>Библиарии</BEWH_SpaceMarinePsyker.labelPlural>
+
+
+  <!-- Lord Commander - Primarch -->
+
+  <BEWH_LordCommander.label>Лорд-командующий</BEWH_LordCommander.label>
+  <BEWH_LordCommander.labelPlural>Лорды-командующие</BEWH_LordCommander.labelPlural>
+
+
+  <!-- Lord Commander -->
+
+</LanguageData>

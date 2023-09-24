@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BEWH_Imperial.label>Имперский Культ</BEWH_Imperial.label>
+  <BEWH_Imperial.description>Официальная религия Империума Человечества. Основатель и правитель Империума - Император Человечества - является бессмертным Вечным и псайкером. Он почитается Имперским Культом как Повелитель, Защитник и Отец Человечества.</BEWH_Imperial.description>
+  <BEWH_Imperial.generalRules.rulesStrings.0>memeAdjective-&gt;преданный</BEWH_Imperial.generalRules.rulesStrings.0>
+  <BEWH_Imperial.generalRules.rulesStrings.1>memeLeaderNoun-&gt;капитан</BEWH_Imperial.generalRules.rulesStrings.1>
+  <BEWH_Imperial.generalRules.rulesStrings.2>memeMoralist-&gt;капеллан</BEWH_Imperial.generalRules.rulesStrings.2>
+  <BEWH_Imperial.symbolPacks.0.adjective>имперский</BEWH_Imperial.symbolPacks.0.adjective>
+
+
+  <!--<BEWH_Imperial.worshipRoomLabel>Ассимуляриум</BEWH_Imperial.worshipRoomLabel>-->
+  <!--<BEWH_Imperial.symbolPacks.0.ideoName>империализм</BEWH_Imperial.symbolPacks.0.ideoName>-->
+  <!--<BEWH_Imperial.symbolPacks.0.theme>веры</BEWH_Imperial.symbolPacks.0.theme>-->
+  <!--<BEWH_Imperial.symbolPacks.0.member>лоялист</BEWH_Imperial.symbolPacks.0.member>-->
+
+</LanguageData>
