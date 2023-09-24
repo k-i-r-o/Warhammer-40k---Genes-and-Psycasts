@@ -51,8 +51,8 @@
 
   <!-- Multi-lung -->
 
-  <BEWH_MultiLung.label>multi-lung</BEWH_MultiLung.label>
-  <BEWH_MultiLung.description>The multi lung is but a bag, similar in composition to a lung but with similar enzymes and filters to the preomnor. Implanted just under the lungs to be able to fully use the diaphragm, the multi-lung is routed to a sphincter in the trachea so that it can be used alongside the other lungs to feed the now higher oxygen requirements due to the Haemastamen, but also so that it can close it, forcing all air input to come through it, in case the neophyte is in a dangerous atmosphere and the air needs to be filtered.</BEWH_MultiLung.description>
+  <BEWH_MultiLung.label>мультилегкое</BEWH_MultiLung.label>
+  <BEWH_MultiLung.description>Мультилегкое - это всего лишь мешок, похожий по составу на легкое, но с такими же ферментами и фильтрами, как у предшественника. Имплантированный непосредственно под легкие, чтобы иметь возможность полностью использовать диафрагму, мультилёгочный аппарат направляется к сфинктеру в трахее, чтобы его можно было использовать вместе с другими легкими для удовлетворения возросшей потребности в кислороде из-за кровяного отверстия, но также и для того, чтобы он мог закрывать его, вытесняя весь воздух вход должен проходить через него, на случай, если неофит находится в опасной атмосфере и воздух нуждается в фильтрации.</BEWH_MultiLung.description>
 
 
   <!-- Occulobe -->
@@ -69,8 +69,8 @@
 
   <!-- Sus-an Membrane -->
 
-  <BEWH_SusAnMembrane.label>sus-an membrane</BEWH_SusAnMembrane.label>
-  <BEWH_SusAnMembrane.description>Carriers possess an organ within the their cranium, this organ eventually produces a membrane comprised of genetically-engineered neural tissue that merges with the recipient's cerebrum, that allows them to enter a state of suspended animation, the organ will shut down all biological and psychic functions</BEWH_SusAnMembrane.description>
+  <BEWH_SusAnMembrane.label>анабиозная мембрана</BEWH_SusAnMembrane.label>
+  <BEWH_SusAnMembrane.description>Носители обладают органом внутри своего черепа, этот орган в конечном итоге производит мембрану, состоящую из генетически модифицированной нервной ткани, которая сливается с головным мозгом реципиента, что позволяет им входить в состояние анабиоза, орган отключает все биологические и психические функции.</BEWH_SusAnMembrane.description>
 
 
   <!-- Melanochrome -->
