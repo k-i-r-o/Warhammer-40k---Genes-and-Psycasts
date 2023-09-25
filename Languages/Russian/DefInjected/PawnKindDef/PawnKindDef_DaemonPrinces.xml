@@ -9,26 +9,26 @@
 
   <!-- Khorne -->
 
-  <BEWH_DPKhorne.label>Khorne Marine</BEWH_DPKhorne.label>
-  <BEWH_DPKhorne.labelPlural>Khorne Marines</BEWH_DPKhorne.labelPlural>
+  <BEWH_DPKhorne.label>Десантник Кхорна</BEWH_DPKhorne.label>
+  <BEWH_DPKhorne.labelPlural>Десантник Кхорна</BEWH_DPKhorne.labelPlural>
 
 
   <!-- Nurgle -->
 
-  <BEWH_DPNurgle.label>Nurgle Marine</BEWH_DPNurgle.label>
-  <BEWH_DPNurgle.labelPlural>Nurgle Marines</BEWH_DPNurgle.labelPlural>
+  <BEWH_DPNurgle.label>Десантник Нургла</BEWH_DPNurgle.label>
+  <BEWH_DPNurgle.labelPlural>Десантник Нургла</BEWH_DPNurgle.labelPlural>
 
 
   <!-- Slaanesh -->
 
-  <BEWH_DPSlaanesh.label>Slaanesh Marine</BEWH_DPSlaanesh.label>
-  <BEWH_DPSlaanesh.labelPlural>Slaanesh Marines</BEWH_DPSlaanesh.labelPlural>
+  <BEWH_DPSlaanesh.label>Десантник Сланеш</BEWH_DPSlaanesh.label>
+  <BEWH_DPSlaanesh.labelPlural>Десантник Сланеш</BEWH_DPSlaanesh.labelPlural>
 
 
   <!-- Tzeentch -->
 
-  <BEWH_DPTzeentch.label>Tzeentch Marine</BEWH_DPTzeentch.label>
-  <BEWH_DPTzeentch.labelPlural>Tzeentch Marines</BEWH_DPTzeentch.labelPlural>
+  <BEWH_DPTzeentch.label>Десантник Тзинч</BEWH_DPTzeentch.label>
+  <BEWH_DPTzeentch.labelPlural>Десантник Тзинч</BEWH_DPTzeentch.labelPlural>
 
 
 </LanguageData>
