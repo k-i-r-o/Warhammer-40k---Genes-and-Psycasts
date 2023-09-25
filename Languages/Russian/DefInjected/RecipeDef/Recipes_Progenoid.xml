@@ -3,18 +3,18 @@
 
   <!-- Make geneseed base -->
 
-  <BEWH_AstartesPack.label>Make astartes genepack</BEWH_AstartesPack.label>
-  <BEWH_AstartesPack.description>Remove fully grown germ cells from progenoid glands to make all gene-seeds of an astartes.</BEWH_AstartesPack.description>
-  <BEWH_AstartesPack.jobString>creating gene-seed from progenoid glands</BEWH_AstartesPack.jobString>
-  <BEWH_AstartesPack.successfullyRemovedHediffMessage>{0} has successfully created gene-seed from {1}'s progenoid glands.</BEWH_AstartesPack.successfullyRemovedHediffMessage>
+  <BEWH_AstartesPack.label>Создать генофонд астартес</BEWH_AstartesPack.label>
+  <BEWH_AstartesPack.description>Удалите полностью выросшие половые клетки из прогеноидных желез, чтобы получить все генные семена астартес.</BEWH_AstartesPack.description>
+  <BEWH_AstartesPack.jobString>создание геносемени из прогеноидных желез</BEWH_AstartesPack.jobString>
+  <BEWH_AstartesPack.successfullyRemovedHediffMessage>{0} успешно создал геносемя из прогеноидных желез {1}.</BEWH_AstartesPack.successfullyRemovedHediffMessage>
 
 
   <!-- Make primaris geneseed base -->
 
-  <BEWH_PrimarisPack.label>Make primaris genepack</BEWH_PrimarisPack.label>
-  <BEWH_PrimarisPack.description>Remove fully grown germ cells from progenoid glands to make all gene-seeds of a primaris.</BEWH_PrimarisPack.description>
-  <BEWH_PrimarisPack.jobString>creating primaris gene-seed from progenoid glands</BEWH_PrimarisPack.jobString>
-  <BEWH_PrimarisPack.successfullyRemovedHediffMessage>{0} has successfully created primaris gene-seed from {1}'s progenoid glands.</BEWH_PrimarisPack.successfullyRemovedHediffMessage>
+  <BEWH_PrimarisPack.label>Создать генофонд примарис</BEWH_PrimarisPack.label>
+  <BEWH_PrimarisPack.description>Удалите полностью выросшие половые клетки из прогеноидных желез, чтобы получить все генные семена примарис.</BEWH_PrimarisPack.description>
+  <BEWH_PrimarisPack.jobString>создание геносемени примарис из прогеноидных желез</BEWH_PrimarisPack.jobString>
+  <BEWH_PrimarisPack.successfullyRemovedHediffMessage>{0} успешно создал геносемя примарис из прогеноидных желез {1}.</BEWH_PrimarisPack.successfullyRemovedHediffMessage>
 
 
   <!-- Stasis Resurrection -->
@@ -24,117 +24,5 @@
   <BEWH_StasisWake.jobString>пробуждает из стазиса</BEWH_StasisWake.jobString>
   <BEWH_StasisWake.successfullyRemovedHediffMessage>{0} успешно пробудил {1} из стазиса.</BEWH_StasisWake.successfullyRemovedHediffMessage>
 
-
-  <!-- Secondary Heart 
-  Remove fully grown germ cells from progenoid glands to make a gene-seed genepack.-->
-  <!--<BEWH_SecondaryHeart.label>Создать ген второго сердца</BEWH_SecondaryHeart.label>-->
-  <!--<BEWH_SecondaryHeart.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени.</BEWH_SecondaryHeart.description>-->
-  <!--<BEWH_SecondaryHeart.jobString>создаёт геносемя из прогеноидов</BEWH_SecondaryHeart.jobString>-->
-  <!--<BEWH_SecondaryHeart.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_SecondaryHeart.successfullyRemovedHediffMessage>-->
-  <!-- Ossmodula -->
-  <!--<BEWH_Ossmodula.label>Создать ген оссмодулы</BEWH_Ossmodula.label>-->
-  <!--<BEWH_Ossmodula.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Второе сердце.</BEWH_Ossmodula.description>-->
-  <!--<BEWH_Ossmodula.jobString>создаёт геносемя из прогеноидов</BEWH_Ossmodula.jobString>-->
-  <!--<BEWH_Ossmodula.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Ossmodula.successfullyRemovedHediffMessage>-->
-  <!-- Biscopea -->
-  <!--<BEWH_Biscopea.label>Создать ген бископии</BEWH_Biscopea.label>-->
-  <!--<BEWH_Biscopea.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Оссмодула.</BEWH_Biscopea.description>-->
-  <!--<BEWH_Biscopea.jobString>создаёт геносемя из прогеноидов</BEWH_Biscopea.jobString>-->
-  <!--<BEWH_Biscopea.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Biscopea.successfullyRemovedHediffMessage>-->
-  <!-- Haemastamen -->
-  <!--<BEWH_Haemastamen.label>Создать ген гемастамена</BEWH_Haemastamen.label>-->
-  <!--<BEWH_Haemastamen.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Бископия.</BEWH_Haemastamen.description>-->
-  <!--<BEWH_Haemastamen.jobString>создаёт геносемя из прогеноидов</BEWH_Haemastamen.jobString>-->
-  <!--<BEWH_Haemastamen.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Haemastamen.successfullyRemovedHediffMessage>-->
-  <!-- Larraman's Organ -->
-  <!--<BEWH_LarramansOrgan.label>Создать ген органа Ларрамана</BEWH_LarramansOrgan.label>-->
-  <!--<BEWH_LarramansOrgan.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Гемастамен.</BEWH_LarramansOrgan.description>-->
-  <!--<BEWH_LarramansOrgan.jobString>создаёт геносемя из прогеноидов</BEWH_LarramansOrgan.jobString>-->
-  <!--<BEWH_LarramansOrgan.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_LarramansOrgan.successfullyRemovedHediffMessage>-->
-  <!-- Catalepsean Node -->
-  <!--<BEWH_CatalepseanNode.label>Создать ген каталептического узла</BEWH_CatalepseanNode.label>-->
-  <!--<BEWH_CatalepseanNode.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Орган Ларрамана.</BEWH_CatalepseanNode.description>-->
-  <!--<BEWH_CatalepseanNode.jobString>создаёт геносемя из прогеноидов</BEWH_CatalepseanNode.jobString>-->
-  <!--<BEWH_CatalepseanNode.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_CatalepseanNode.successfullyRemovedHediffMessage>-->
-  <!-- Preomnor -->
-  <!--<BEWH_Preomnor.label>Создать ген преомнора</BEWH_Preomnor.label>-->
-  <!--<BEWH_Preomnor.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Каталептический узел.</BEWH_Preomnor.description>-->
-  <!--<BEWH_Preomnor.jobString>создаёт геносемя из прогеноидов</BEWH_Preomnor.jobString>-->
-  <!--<BEWH_Preomnor.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Preomnor.successfullyRemovedHediffMessage>-->
-  <!-- Omophagea -->
-  <!--<BEWH_Omophagea.label>Создать ген омофагии</BEWH_Omophagea.label>-->
-  <!--<BEWH_Omophagea.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Преомнор.</BEWH_Omophagea.description>-->
-  <!--<BEWH_Omophagea.jobString>создаёт геносемя из прогеноидов</BEWH_Omophagea.jobString>-->
-  <!--<BEWH_Omophagea.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Omophagea.successfullyRemovedHediffMessage>-->
-  <!-- Multi-lung -->
-  <!--<BEWH_Multi-lung.label>Создать ген третьего лёгкого</BEWH_Multi-lung.label>-->
-  <!--<BEWH_Multi-lung.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Омофагия.</BEWH_Multi-lung.description>-->
-  <!--<BEWH_Multi-lung.jobString>создаёт геносемя из прогеноидов</BEWH_Multi-lung.jobString>-->
-  <!--<BEWH_Multi-lung.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Multi-lung.successfullyRemovedHediffMessage>-->
-  <!-- Occulobe -->
-  <!--<BEWH_Occulobe.label>Создать ген оккулобы</BEWH_Occulobe.label>-->
-  <!--<BEWH_Occulobe.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Третье лёгкое.</BEWH_Occulobe.description>-->
-  <!--<BEWH_Occulobe.jobString>создаёт геносемя из прогеноидов</BEWH_Occulobe.jobString>-->
-  <!--<BEWH_Occulobe.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Occulobe.successfullyRemovedHediffMessage>-->
-  <!-- Lyman's Ear -->
-  <!--<BEWH_LymansEar.label>Создать ген уха Лимана</BEWH_LymansEar.label>-->
-  <!--<BEWH_LymansEar.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Оккулоба.</BEWH_LymansEar.description>-->
-  <!--<BEWH_LymansEar.jobString>создаёт геносемя из прогеноидов</BEWH_LymansEar.jobString>-->
-  <!--<BEWH_LymansEar.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_LymansEar.successfullyRemovedHediffMessage>-->
-  <!-- Sus-an Membrane -->
-  <!--<BEWH_Sus-anMembrane.label>Создать ген анабиозной мембраны</BEWH_Sus-anMembrane.label>-->
-  <!--<BEWH_Sus-anMembrane.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Ухо Лимана.</BEWH_Sus-anMembrane.description>-->
-  <!--<BEWH_Sus-anMembrane.jobString>создаёт геносемя из прогеноидов</BEWH_Sus-anMembrane.jobString>-->
-  <!--<BEWH_Sus-anMembrane.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Sus-anMembrane.successfullyRemovedHediffMessage>-->
-  <!-- Melanochrome -->
-  <!--<BEWH_Melanochrome.label>Создать ген меланохромы</BEWH_Melanochrome.label>-->
-  <!--<BEWH_Melanochrome.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Анабиозная мембрана.</BEWH_Melanochrome.description>-->
-  <!--<BEWH_Melanochrome.jobString>создаёт геносемя из прогеноидов</BEWH_Melanochrome.jobString>-->
-  <!--<BEWH_Melanochrome.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Melanochrome.successfullyRemovedHediffMessage>-->
-  <!-- Oolitic Kidney -->
-  <!--<BEWH_OoliticKidney.label>Создать ген оолитовой почки</BEWH_OoliticKidney.label>-->
-  <!--<BEWH_OoliticKidney.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Меланохрома.</BEWH_OoliticKidney.description>-->
-  <!--<BEWH_OoliticKidney.jobString>создаёт геносемя из прогеноидов</BEWH_OoliticKidney.jobString>-->
-  <!--<BEWH_OoliticKidney.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_OoliticKidney.successfullyRemovedHediffMessage>-->
-  <!-- Neuroglottis -->
-  <!--<BEWH_Neuroglottis.label>Создать ген нейроглоттиса</BEWH_Neuroglottis.label>-->
-  <!--<BEWH_Neuroglottis.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Оолитовая почка.</BEWH_Neuroglottis.description>-->
-  <!--<BEWH_Neuroglottis.jobString>создаёт геносемя из прогеноидов</BEWH_Neuroglottis.jobString>-->
-  <!--<BEWH_Neuroglottis.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Neuroglottis.successfullyRemovedHediffMessage>-->
-  <!-- Mucranoid -->
-  <!--<BEWH_Mucranoid.label>Создать ген мукраноида</BEWH_Mucranoid.label>-->
-  <!--<BEWH_Mucranoid.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Нейроглоттис.</BEWH_Mucranoid.description>-->
-  <!--<BEWH_Mucranoid.jobString>создаёт геносемя из прогеноидов</BEWH_Mucranoid.jobString>-->
-  <!--<BEWH_Mucranoid.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_Mucranoid.successfullyRemovedHediffMessage>-->
-  <!-- Betcher's Gland -->
-  <!--<BEWH_BetchersGland.label>Создать ген железы Бетчера</BEWH_BetchersGland.label>-->
-  <!--<BEWH_BetchersGland.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Мукраноид.</BEWH_BetchersGland.description>-->
-  <!--<BEWH_BetchersGland.jobString>создаёт геносемя из прогеноидов</BEWH_BetchersGland.jobString>-->
-  <!--<BEWH_BetchersGland.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_BetchersGland.successfullyRemovedHediffMessage>-->
-  <!-- Progenoid Glands -->
-  <!--<BEWH_ProgenoidGlands.label>Создать ген прогеноидов</BEWH_ProgenoidGlands.label>-->
-  <!--<BEWH_ProgenoidGlands.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Железа Бетчера.</BEWH_ProgenoidGlands.description>-->
-  <!--<BEWH_ProgenoidGlands.jobString>создаёт геносемя из прогеноидов</BEWH_ProgenoidGlands.jobString>-->
-  <!--<BEWH_ProgenoidGlands.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_ProgenoidGlands.successfullyRemovedHediffMessage>-->
-  <!-- Black Carapace -->
-  <!--<BEWH_BlackCarapace.label>Создать ген чёрного панциря</BEWH_BlackCarapace.label>-->
-  <!--<BEWH_BlackCarapace.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени. Для последующего вживления данного гена, у пешки уже должен быть ген Прогеноиды.</BEWH_BlackCarapace.description>-->
-  <!--<BEWH_BlackCarapace.jobString>создаёт геносемя из прогеноидов</BEWH_BlackCarapace.jobString>-->
-  <!--<BEWH_BlackCarapace.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя из прогеноидов {1}.</BEWH_BlackCarapace.successfullyRemovedHediffMessage>-->
-  <!-- Sinew Coil -->
-  <!--<BEWH_SinewCoil.label>Создать ген витых жил</BEWH_SinewCoil.label>-->
-  <!--<BEWH_SinewCoil.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени примарис. Для последующего вживления данного гена, у пешки уже должен быть ген Чёрный панцирь.</BEWH_SinewCoil.description>-->
-  <!--<BEWH_SinewCoil.jobString>создаёт геносемя примарис из прогеноидов</BEWH_SinewCoil.jobString>-->
-  <!--<BEWH_SinewCoil.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя примарис из прогеноидов {1}.</BEWH_SinewCoil.successfullyRemovedHediffMessage>-->
-  <!-- Magnificat -->
-  <!--<BEWH_Magnificat.label>Создать ген магнификат</BEWH_Magnificat.label>-->
-  <!--<BEWH_Magnificat.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени примарис. Для последующего вживления данного гена, у пешки уже должен быть ген Чёрный панцирь.</BEWH_Magnificat.description>-->
-  <!--<BEWH_Magnificat.jobString>создаёт геносемя примарис из прогеноидов</BEWH_Magnificat.jobString>-->
-  <!--<BEWH_Magnificat.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя примарис из прогеноидов {1}.</BEWH_Magnificat.successfullyRemovedHediffMessage>-->
-  <!-- Belisarian Furnace -->
-  <!--<BEWH_BelisarianFurnace.label>Создать ген горнило Велизария</BEWH_BelisarianFurnace.label>-->
-  <!--<BEWH_BelisarianFurnace.description>Извлечь полностью созревшие зародышевые клетки из прогеноидов для создания нового геносемени примарис. Для последующего вживления данного гена, у пешки уже должен быть ген Чёрный панцирь.</BEWH_BelisarianFurnace.description>-->
-  <!--<BEWH_BelisarianFurnace.jobString>создаёт геносемя примарис из прогеноидов</BEWH_BelisarianFurnace.jobString>-->
-  <!--<BEWH_BelisarianFurnace.successfullyRemovedHediffMessage>{0} успешно извлекает геносемя примарис из прогеноидов {1}.</BEWH_BelisarianFurnace.successfullyRemovedHediffMessage>-->
 
 </LanguageData>
