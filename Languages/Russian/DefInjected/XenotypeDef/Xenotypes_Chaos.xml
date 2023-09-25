@@ -3,32 +3,32 @@
 
   <!-- Thousand Sons -->
 
-  <BEWH_TzeentchMarine.label>tzeentch marine</BEWH_TzeentchMarine.label>
-  <BEWH_TzeentchMarine.description>A once proud astartes, now led down the road of chaos, this one follows Tzeentch, the changer of ways.</BEWH_TzeentchMarine.description>
+  <BEWH_TzeentchMarine.label>десантник Тзинча</BEWH_TzeentchMarine.label>
+  <BEWH_TzeentchMarine.description>Некогда гордый астартес, ныне ведомый дорогой хаоса, следует за Тзинчем, изменяющим пути.</BEWH_TzeentchMarine.description>
 
 
   <!-- Deathguard -->
 
-  <BEWH_NurgleMarine.label>nurgle marine</BEWH_NurgleMarine.label>
-  <BEWH_NurgleMarine.description>A once proud astartes, now led down the road of chaos, this one follows Nurgle, the plague father.</BEWH_NurgleMarine.description>
+  <BEWH_NurgleMarine.label>десантник Нургла</BEWH_NurgleMarine.label>
+  <BEWH_NurgleMarine.description>Некогда гордый астартес, ныне ведомый дорогой хаоса, следует за Нурглом, отцом чумы.</BEWH_NurgleMarine.description>
 
 
   <!-- Emperor's Children -->
 
-  <BEWH_SlaaneshMarine.label>slaanesh marine</BEWH_SlaaneshMarine.label>
-  <BEWH_SlaaneshMarine.description>A once proud astartes, now led down the road of chaos, this one follows Slaanesh the lord of pleasure.</BEWH_SlaaneshMarine.description>
+  <BEWH_SlaaneshMarine.label>десантник сланеш</BEWH_SlaaneshMarine.label>
+  <BEWH_SlaaneshMarine.description>Некогда гордый астартес, ныне ведомый дорогой хаоса, следует за Слаанеш, повелителем наслаждений.</BEWH_SlaaneshMarine.description>
 
 
   <!-- World Eaters -->
 
-  <BEWH_KhorneMarine.label>khorne marine</BEWH_KhorneMarine.label>
-  <BEWH_KhorneMarine.description>A once proud astartes, now led down the road of chaos, this one follows Khorne the blood god.</BEWH_KhorneMarine.description>
+  <BEWH_KhorneMarine.label>десантник кхорна</BEWH_KhorneMarine.label>
+  <BEWH_KhorneMarine.description>Некогда гордый астартес, ныне ведомый дорогой хаоса, следует за Кхорном, богом крови.</BEWH_KhorneMarine.description>
 
 
   <!-- Chaos Marine -->
 
-  <BEWH_ChaosMarine.label>chaos marine</BEWH_ChaosMarine.label>
-  <BEWH_ChaosMarine.description>A once proud astartes, now led down the road of chaos, this one follows no specific god but instead accepts them all.</BEWH_ChaosMarine.description>
+  <BEWH_ChaosMarine.label>десантник хаоса</BEWH_ChaosMarine.label>
+  <BEWH_ChaosMarine.description>Некогда гордый астартес, ныне ведомый дорогой хаоса. Этот человек не следует ни одному конкретному богу, а вместо этого принимает их всех.</BEWH_ChaosMarine.description>
 
 
   <!-- Daemon Prince Undivided -->
@@ -61,10 +61,5 @@
   <BEWH_DPSlaanesh.description>Демон-принц Слаанеш. (временное описание)</BEWH_DPSlaanesh.description>
 
 
-  <!--<BEWH_DPUndivided.descriptionShort>Демон-принц Хаоса Неделимого. (временное описание)</BEWH_DPUndivided.descriptionShort>-->
-  <!--<BEWH_DPKhorne.descriptionShort>Демон-принц Кхорна. (временное описание)</BEWH_DPKhorne.descriptionShort>-->
-  <!--<BEWH_DPNurgle.descriptionShort>Демон-принц Нургла. (временное описание)</BEWH_DPNurgle.descriptionShort>-->
-  <!--<BEWH_DPTzeentch.descriptionShort>Демон-принц Тзинча. (временное описание)</BEWH_DPTzeentch.descriptionShort>-->
-  <!--<BEWH_DPSlaanesh.descriptionShort>Демон-принц Слаанеш. (временное описание)</BEWH_DPSlaanesh.descriptionShort>-->
 
 </LanguageData>
